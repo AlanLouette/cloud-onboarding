@@ -1,0 +1,5 @@
+email,name,date,login_link,language,single_app_only
+jan.janssen@example.be,Jan Janssen,15/03/2025,https://cloud.4bs.com/reset/abc123def456,nl,1
+marie.dupont@example.fr,Marie Dupont,15/03/2025,https://cloud.4bs.com/reset/ghi789jkl012,fr,0
+tom.smith@example.com,Tom Smith,20/03/2025,https://cloud.4bs.com/reset/mno345pqr678,en,0
+anna.peters@example.be,Anna Peters,20/03/2025,https://cloud.4bs.com/reset/stu901vwx234,nl,1

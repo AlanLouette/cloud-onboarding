@@ -1,0 +1,11 @@
+email,username,language,date,name,login_link,single_app_only
+alan@rootagency.be,amelie.dupont,fr,2025-07-10,Amélie Dupont,https://example.com/login,TRUE
+alan@rootagency.be,raphael.martin,fr,2025-07-10,Raphaël Martin,https://example.com/login,TRUE
+alan@rootagency.be,mael.bernard,fr,2025-07-10,Maël Bernard,https://example.com/login,TRUE
+alan@rootagency.be,eloise.laurent,fr,2025-07-10,Éloïse Laurent,https://example.com/login,TRUE
+alan@rootagency.be,anaelle.robert,fr,2025-07-10,Anaëlle Robert,https://example.com/login,TRUE
+alan@rootagency.be,mathieu.moreau,fr,2025-07-10,Mathieu Moreau,https://example.com/login,TRUE
+alan@rootagency.be,noemie.riviere,fr,2025-07-10,Noémie Rivière,https://example.com/login,TRUE
+alan@rootagency.be,gaetan.lambert,fr,2025-07-10,Gaëtan Lambert,https://example.com/login,TRUE
+alan@rootagency.be,sebastien.girard,fr,2025-07-10,Sébastien Girard,https://example.com/login,TRUE
+alan@rootagency.be,lea.muller,fr,2025-07-10,Léa Müller,https://example.com/login,TRUE
